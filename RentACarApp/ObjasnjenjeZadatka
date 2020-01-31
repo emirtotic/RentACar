@@ -1,0 +1,26 @@
+ 
+ *   Ideja zadatka je da se napravi Rent-A-Car aplikacija.
+
+ *   U klasi Korisnik se definise ime korisnika koji iznajmljuje ili vraca automobil u agenciju.
+
+ *   Agencija ima 4 klasicna automobila i SAMO jedan dzip.
+
+ *   Za kreiranje Dzipa je koriscen Singleton Design Pattern.
+
+ *   Svi automobili su ubaceni u listu i svaka operacija se odrazava na stanje liste u zavisnosti da li je automobil izdat ili ne.
+ 
+ *   Na kraju ubaciti izbor jezika.
+ 
+ _____________________________________________________________________________________________________________________________________________
+ 
+ *   I made a simulation of Rent-A-Car aplication.
+ 
+ *   In Korisnik class is defined name of a user who wants to rent or return back a vehicle.
+ 
+ *   The agency has 4 regular vehicles and JUST ONE SUV.
+ 
+ *   For creating an SUV I used Singleton Design Pattern.
+ 
+ *   All vehicles (including SUV) are stored in ArrayList. All operations are affecting on list and has an option to show current situation.
+ 
+ *   At the end of the program, I made an option for selecting a language of application.
